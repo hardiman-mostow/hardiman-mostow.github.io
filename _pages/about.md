@@ -20,7 +20,9 @@ I am looking for research/applied scientist internship roles for Summer 2023. Fe
 News
 =====
 03/2022: I passed the Numerical Analysis and "Basic" (trust me, it's anything but that...) Qualifying Exams, so I've completed my Qualifying Exam requirements!
+
 12/2021: I passed the Optimization/Numerical Linear Algebra Qualifying Exam!
+
 09/2021: I started as a PhD student at UCLA!
 
 Hobbies/Personal
