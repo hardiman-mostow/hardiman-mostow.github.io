@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Harris Hardiman-Mostow"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
