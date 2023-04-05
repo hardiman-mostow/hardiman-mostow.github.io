@@ -11,7 +11,7 @@ redirect_from:
 Bio
 =========
 
-I’m a 2nd year Mathematics Ph.D. student at UCLA. My recent research is in graph-based semisupervised learning and its synergy with feature representations learned by convolutional neural networks. When combined with active learning (and even without), these techniques can outperform the state-of-the-art in some image classification tasks with significantly less label information (i.e. less training data). For the 2021-2022 academic year, I was supported by the NSF NRT MENTOR Fellowship. For undergrad I went to Tufts University, graduating Summa Cum Laude with degrees in Mathematics and Mechanical Engineering and was a Captain on the Varsity Rowing Team. 
+I’m a 2nd year Mathematics Ph.D. student at UCLA. My recent research is in graph-based semisupervised learning and its synergy with feature representations learned by convolutional neural networks. When combined with active learning (and even without), these techniques can outperform the state-of-the-art in some image classification tasks with significantly less label information (i.e. less training data). For undergrad I went to Tufts University, graduating Summa Cum Laude with degrees in Mathematics and Mechanical Engineering and was a Captain on the Varsity Rowing Team. 
 
 For Spring Quarter 2023, I am a TA for Math 33A (Linear Algebra) and 33B (Differential Equations).
 
@@ -33,7 +33,7 @@ News
 
 12/2021: I passed the Optimization/Numerical Linear Algebra Qualifying Exam!
 
-09/2021: I started as a PhD student at UCLA!
+09/2021: I started as a PhD student at UCLA! For my first year, I am fortunate to be supported by an NSF NRT MENTOR Fellowship.
 
 Hobbies/Personal
 =================
