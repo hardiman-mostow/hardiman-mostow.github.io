@@ -1,7 +1,7 @@
 ---
 title: "Deep Semi-supervised Label Propagation for SAR Image Classification"
 collection: publications
-permalink: /files/SPIE_End_to_End-2.pdf
+permalink: /publication/spie2023
 #excerpt: 
 date: 2023-05-01
 venue: 'SPIE Defense and Commercial Sensing'
