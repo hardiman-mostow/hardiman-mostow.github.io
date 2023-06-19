@@ -1,5 +1,5 @@
 ---
-title: "Deep Semi-supervised Label Propagation for SAR Image Classification"
+title: Deep Semi-supervised Label Propagation for SAR Image Classification
 collection: publications
 permalink: /publication/spie2023
 excerpt: 'test'
