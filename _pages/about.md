@@ -11,7 +11,7 @@ redirect_from:
 Bio
 =========
 
-I’m a 3rd year Mathematics Ph.D. student at UCLA, supported by the National Science Foundation Graduate Research Fellowship. My research is in graph-based semisupervised learning. I've done projects inventing novel neural network architectures that leverage graph SSL for image classification, and am currently working on a project on hyperspectral image unmixing. I'm also interested in the theoretical and empirical relationship between graph SSL techniques and graph neural networks. For undergrad I went to Tufts University, graduating Summa Cum Laude with degrees in Mathematics and Mechanical Engineering and was a Captain on the Varsity Rowing Team. 
+I’m a 3rd year Mathematics Ph.D. student at UCLA, supported by the National Science Foundation Graduate Research Fellowship. My research is in graph-based semisupervised learning. I've done projects inventing novel neural network architectures that leverage graph SSL for image classification, and am currently working on a project on hyperspectral image unmixing. I'm also interested in the theoretical and empirical relationship between graph SSL techniques and graph neural networks. For undergrad I went to Tufts University, graduating Summa Cum Laude with degrees in Mathematics and Mechanical Engineering and was a Captain on the Varsity Rowing Team. I was advised by [James Murphy](https://jmurphy.math.tufts.edu).
 
 In Summer 2021, I was a Graduate Data Science Intern at the Mitre Corporation, working on multivariate drift detection. 
 
