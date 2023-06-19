@@ -1,10 +1,10 @@
 ---
 title: "Deep Semi-supervised Label Propagation for SAR Image Classification"
 collection: publications
-permalink: /publication/spie2023
+permalink: /files/SPIE_End_to_End-2.pdf
 #excerpt: 
 date: 2023-05-01
-venue: 'SPIE Defense and Commercial Sensing 2023'
+venue: 'SPIE Defense and Commercial Sensing'
 paperurl: 'hardiman-mostow.github.io/files/SPIE_End_to_End-2.pdf'
 citation: 'J. Enwright, H. Hardiman-Mostow, J. Calder, A.L. Bertozzi. Deep Semi-supervised Label Propagation for SAR Image Classification. _SPIE Defense and Commercial Sensing 2023_, 2023.'
 ---
