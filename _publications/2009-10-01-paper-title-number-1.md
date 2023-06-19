@@ -6,7 +6,7 @@ permalink: /publication/spie2023
 date: 2023
 venue: 'SPIE Defense and Commercial Sensing 2023'
 paperurl: 'hardiman-mostow.github.io/files/SPIE_End_to_End-2.pdf'
-citation: 'J. Enwright, H. Hardiman-Mostow, J. Calder, A.L. Bertozzi. Deep Semi-supervised Label Propagation for SAR Image Classification. _SPIE Defense and Commercial Sensing 2023_, 2023.
+citation: 'J. Enwright, H. Hardiman-Mostow, J. Calder, A.L. Bertozzi. Deep Semi-supervised Label Propagation for SAR Image Classification. _SPIE Defense and Commercial Sensing 2023_, 2023.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
