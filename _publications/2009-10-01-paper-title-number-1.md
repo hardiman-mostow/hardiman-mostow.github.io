@@ -2,7 +2,7 @@
 title: "Deep Semi-supervised Label Propagation for SAR Image Classification"
 collection: publications
 permalink: /publication/spie2023
-#excerpt: 
+excerpt: test
 date: 2023
 venue: 'SPIE Defense and Commercial Sensing"
 paperurl: 'http://hardiman-mostow.github.io/files/SPIE_End_to_End-2.pdf'
