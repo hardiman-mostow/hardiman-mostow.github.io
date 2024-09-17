@@ -17,7 +17,9 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
   {% include archive-single.html %}
 {% endfor %} -->
 
-J. Enwright, H. Hardiman-Mostow, J. Calder, A.L. Bertozzi. [Deep semi-supervised label propagation for SAR image classification](http://hardiman-mostow.github.io/files/SPIE_End_to_End-2.pdf). <i>SPIE Defense and Commercial Sensing</i>, 2023.
+J. Brown, B. Chen, H. Hardiman-Mostow, A. Weihs, A.L. Bertozzi and J. Chanussot. [Material identification in complex environments: neural network approaches to hyperspectral image analysis](https://ieeexplore.ieee.org/abstract/document/10431067). <i> IEEE WHISPERS </i>, 2023.
+
+J. Enwright, H. Hardiman-Mostow, J. Calder, A.L. Bertozzi. [Deep semi-supervised label propagation for SAR image classification](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12520/125200G/Deep-semi-supervised-label-propagation-for-SAR-image-classification/10.1117/12.2663665.short#_=_). <i>SPIE Defense and Commercial Sensing</i>, 2023.
 
 
 
