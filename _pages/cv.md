@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-My [CV](https://hardiman-mostow.github.io/files/CV_Sept_2024.pdf)
+My [CV](https://hardiman-mostow.github.io/files/CV_Jan_2025.pdf)
 
