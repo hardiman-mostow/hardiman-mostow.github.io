@@ -17,9 +17,9 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
   {% include archive-single.html %}
 {% endfor %} -->
 
-H. Hardiman-Mostow, C. Marshak, A.L. Handwerger. Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product. Submitted to IEEE JSTARS. [Arxiv]{https://arxiv.org/abs/2501.09129}.
+H. Hardiman-Mostow, C. Marshak, A.L. Handwerger. Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product. Submitted to IEEE JSTARS. [Arxiv](https://arxiv.org/abs/2501.09129).
 
-J. Brown, B. Chen, H. Hardiman-Mostow, J. Calder, A.L. Bertozzi. GLL: A Differentiable Graph Learning Layer for Neural Networks. Submitted to JMLR. [Arxiv]{https://arxiv.org/abs/2412.08016}
+J. Brown, B. Chen, H. Hardiman-Mostow, J. Calder, A.L. Bertozzi. GLL: A Differentiable Graph Learning Layer for Neural Networks. Submitted to JMLR. [Arxiv](https://arxiv.org/abs/2412.08016).
 
 J. Brown, B. Chen, H. Hardiman-Mostow, A. Weihs, A.L. Bertozzi and J. Chanussot. [Material identification in complex environments: neural network approaches to hyperspectral image analysis](https://ieeexplore.ieee.org/abstract/document/10431067). <i> IEEE WHISPERS </i>, 2023.
 
