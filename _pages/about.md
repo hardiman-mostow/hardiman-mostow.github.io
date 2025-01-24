@@ -13,7 +13,7 @@ Bio
 
 I’m a 4th year Mathematics Ph.D. student at UCLA, supported by the NSF Graduate Research Fellowship and advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My recent research is in deep learning and graph-based semisupervised learning theory and algorithms, and their applications to both remote and quantum sensing. In particular, I'm interested in environmental and climate-focused applications. 
 
-In Summer 2024, I was a research intern at NASA Jet Propulsion Lab, building a transformer-based model for damage mapping after natural disasters (landslides, fires, floods) with global synthetic aperture radar (SAR) data. I was mentored by [Charlie Marshak](https://scienceandtechnology.jpl.nasa.gov/charlie-marshak) and [Al Handwerger](https://airbornescience.nasa.gov/person/Alexander_Handwerger). You can see an application of my work to the recent LA fires on the [NASA Disasters website]{https://maps.disasters.nasa.gov/arcgis/home/item.html?id=4f83ccab658e40cca655945fbbaa4e5e}.
+In Summer 2024, I was a research intern at NASA Jet Propulsion Lab, building a transformer-based model for damage mapping after natural disasters (landslides, fires, floods) with global synthetic aperture radar (SAR) data. I was mentored by [Charlie Marshak](https://scienceandtechnology.jpl.nasa.gov/charlie-marshak) and [Al Handwerger](https://airbornescience.nasa.gov/person/Alexander_Handwerger). You can see an application of my work to the recent LA fires on the [NASA Disasters website](https://maps.disasters.nasa.gov/arcgis/home/item.html?id=4f83ccab658e40cca655945fbbaa4e5e).
 
 For undergrad I went to Tufts University, graduating Summa Cum Laude with degrees in Mathematics and Mechanical Engineering and was a Captain on the Varsity Rowing Team. I was advised by [James Murphy](https://jmurphy.math.tufts.edu).
 
@@ -21,9 +21,9 @@ I am looking for research/applied scientist internship roles for Summer 2025. Fe
 
 News
 =====
-1/2025: A preprint of our paper [Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product]{https://arxiv.org/abs/2501.09129} is available on Arxiv. This paper covers the work I did during my internship at JPL.
+1/2025: A preprint of our paper [Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product](https://arxiv.org/abs/2501.09129) is available on Arxiv. This paper covers the work I did during my internship at JPL.
 
-12/2024: A preprint of our paper, [GLL: A Differentiable Graph Learning Layer for Neural Networks]{https://arxiv.org/abs/2412.08016} is available on Arxiv. This paper derives a new methodology for backpropagating through a general family of graph learning equations and uses these insights to design a novel "Graph Learning Layer" (GLL).
+12/2024: A preprint of our paper, [GLL: A Differentiable Graph Learning Layer for Neural Networks](https://arxiv.org/abs/2412.08016) is available on Arxiv. This paper derives a new methodology for backpropagating through a general family of graph learning equations and uses these insights to design a novel "Graph Learning Layer" (GLL).
 
 11/2024: I passed my Oral Qualifying Exam and Advanced To PhD Candidacy! Thank you to my committee members: Andrea Bertozzi, Jeff Calder, Deanna Needell, and Hayden Schaeffer.
 
