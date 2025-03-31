@@ -21,7 +21,7 @@ I am looking for research/applied scientist internship roles for Summer 2025. Fe
 
 News
 =====
-1/2025: A preprint of our paper [Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product](https://arxiv.org/abs/2501.09129) is available on Arxiv. This paper covers the work I did during my internship at JPL.
+3/2025: Our paper [Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product](https://arxiv.org/abs/2501.09129) was accepted to IEEE JSTARS! This paper covers the work I did during my internship at JPL.
 
 12/2024: A preprint of our paper, [GLL: A Differentiable Graph Learning Layer for Neural Networks](https://arxiv.org/abs/2412.08016) is available on Arxiv. This paper derives a new methodology for backpropagating through a general family of graph learning equations and uses these insights to design a novel "Graph Learning Layer" (GLL).
 
