@@ -11,13 +11,11 @@ redirect_from:
 Bio
 =========
 
-I’m a 4th year Mathematics Ph.D. student at UCLA, supported by the NSF Graduate Research Fellowship and advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My recent research is in deep learning and graph-based semisupervised learning theory and algorithms, and their applications to both remote and quantum sensing. In particular, I'm interested in environmental and climate-focused applications. 
+I’m a 5th year Mathematics Ph.D. student at UCLA, supported by the NSF Graduate Research Fellowship and advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My recent research is in deep learning and graph-based semisupervised learning theory and algorithms, and their applications to both remote and quantum sensing. In particular, I'm interested in environmental and climate-focused applications. I graduate in June 2026 and am on the job market for ML Research/Engineering roles (remote or southern California preferred) - feel free to contact me on the sidebar to the left!
 
 In Summer 2024, I was a research intern at NASA Jet Propulsion Lab, building a transformer-based model for damage mapping after natural disasters (landslides, fires, floods) with global synthetic aperture radar (SAR) data. I was mentored by [Charlie Marshak](https://scienceandtechnology.jpl.nasa.gov/charlie-marshak) and [Al Handwerger](https://airbornescience.nasa.gov/person/Alexander_Handwerger). You can see an application of my work to the recent LA fires on the [NASA Disasters website](https://maps.disasters.nasa.gov/arcgis/home/item.html?id=4f83ccab658e40cca655945fbbaa4e5e).
 
 For undergrad I went to Tufts University, graduating Summa Cum Laude with degrees in Mathematics and Mechanical Engineering and was a Captain on the Varsity Rowing Team. I was advised by [James Murphy](https://jmurphy.math.tufts.edu).
-
-I am looking for research/applied scientist internship roles for Summer 2025. Feel free to contact me via the sidebar to the left.
 
 News
 =====
