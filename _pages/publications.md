@@ -17,7 +17,7 @@ You can also find my publications on my [Google Scholar](https://scholar.google.
   {% include archive-single.html %}
 {% endfor %} -->
 
-H. Hardiman-Mostow, C. Marshak, A.L. Handwerger. Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product. To appear in IEEE JSTARS. [Arxiv link](https://arxiv.org/abs/2501.09129). [IEEE link](https://ieeexplore.ieee.org/document/10947561). 
+H. Hardiman-Mostow, C. Marshak, A.L. Handwerger. Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product. <i> IEEE JSTARS </i>. [Arxiv link](https://arxiv.org/abs/2501.09129). [IEEE link](https://ieeexplore.ieee.org/document/10947561). 
 
 J. Brown, B. Chen, H. Hardiman-Mostow, J. Calder, A.L. Bertozzi. GLL: A Differentiable Graph Learning Layer for Neural Networks. Submitted to JMLR. [Arxiv](https://arxiv.org/abs/2412.08016).
 
