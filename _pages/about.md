@@ -17,9 +17,17 @@ In Summer 2024, I was a research intern at NASA Jet Propulsion Lab, building a t
 
 For undergrad I went to Tufts University, graduating Summa Cum Laude with degrees in Mathematics and Mechanical Engineering and was a Captain on the Varsity Rowing Team. I was advised by [James Murphy](https://jmurphy.math.tufts.edu).
 
+Current Projects
+=========
+-Coreset selection and the exploration/exploitation trade-off in active learning on graphs at low label rates
+-Traveling waves and memory in recurrent neural networks
+-ML for quantum sensing applications with physics collaborators
+
 News
 =====
-3/2025: Our paper Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product was published in IEEE JSTARS! This paper covers the work I did during my internship at JPL. [Arxiv](https://arxiv.org/abs/2501.09129) 
+8/2025: I'm reviewing for [NHESS](https://nhess.copernicus.org/).
+
+3/2025: Our paper Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product was published in IEEE JSTARS! This paper covers the work I did during my internship at JPL. [IEEE link](https://ieeexplore.ieee.org/document/10947561), [Arxiv link](https://arxiv.org/abs/2501.09129).
 
 12/2024: A preprint of our paper, [GLL: A Differentiable Graph Learning Layer for Neural Networks](https://arxiv.org/abs/2412.08016) is available on Arxiv. This paper derives a new methodology for backpropagating through a general family of graph learning equations and uses these insights to design a novel "Graph Learning Layer" (GLL).
 
