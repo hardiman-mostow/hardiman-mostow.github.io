@@ -20,7 +20,9 @@ For undergrad I went to Tufts University, graduating Summa Cum Laude with degree
 Current Projects
 =========
 -Coreset selection and the exploration/exploitation trade-off in active learning on graphs at low label rates
+
 -Traveling waves and memory in recurrent neural networks
+
 -ML for quantum sensing applications with physics collaborators
 
 News
