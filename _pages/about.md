@@ -27,6 +27,8 @@ Current Projects
 
 News
 =====
+11/2025: New preprint for our paper [Topology-Aware Active Learning on Graphs](https://arxiv.org/abs/2510.25892) is available on Arxiv. This paper leverages curvature on graphs to design coreset selection and active learning routines on graphs for semi-supervised learning at low label rates, which improve over existing methods. It also introduces a rewiring strategy for multi-scale hypergraph learning that speeds up runtimes by up to 10x.
+
 8/2025: I'm reviewing for [NHESS](https://nhess.copernicus.org/).
 
 3/2025: Our paper Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product was published in IEEE JSTARS! This paper covers the work I did during my internship at JPL. [IEEE link](https://ieeexplore.ieee.org/document/10947561), [Arxiv link](https://arxiv.org/abs/2501.09129).
