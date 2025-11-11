@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-My [Resume](https://hardiman-mostow.github.io/files/Hardiman_Resume.pdf) (last updated Aug 2025)
+My [Resume](https://hardiman-mostow.github.io/files/Hardiman_Resume.pdf) (last updated Nov 2025)
 
