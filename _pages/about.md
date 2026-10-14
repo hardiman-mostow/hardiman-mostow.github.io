@@ -11,22 +11,22 @@ redirect_from:
 Bio
 =========
 
-I’m a 5th year Mathematics Ph.D. student at UCLA, supported by the NSF Graduate Research Fellowship and advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My recent research is in deep learning and graph-based semisupervised learning theory and algorithms, and their applications to both remote and quantum sensing. In particular, I'm interested in environmental and climate-focused applications. I graduate in June 2026 and am on the job market for ML Research/Engineering roles - feel free to contact me on the sidebar to the left!
+I'm currently a Research Scientist at Meta working on creator-side ranking and recommendations to improve the prevalence of high-quality content in Facebook Reels.
+
+From 2021-2026 I was a mathematics Ph.D. student at UCLA, supported by the NSF Graduate Research Fellowship and advised by [Andrea Bertozzi](https://www.math.ucla.edu/~bertozzi/). My research focused on deep learning and graph-based semisupervised learning theory and algorithms, and their applications to both remote and quantum sensing. You can find my dissertation [here](https://escholarship.org/uc/item/4gr0k9sb). See also my [Google Scholar](https://scholar.google.com/citations?user=PcU_BcgAAAAJ&hl=en).
 
 In Summer 2024, I was a research intern at NASA Jet Propulsion Lab, building a transformer-based model for damage mapping after natural disasters (landslides, fires, floods) with global synthetic aperture radar (SAR) data. I was mentored by [Charlie Marshak](https://scienceandtechnology.jpl.nasa.gov/charlie-marshak) and [Al Handwerger](https://airbornescience.nasa.gov/person/Alexander_Handwerger). You can see an application of my work to the recent LA fires on the [NASA Disasters website](https://maps.disasters.nasa.gov/arcgis/home/item.html?id=4f83ccab658e40cca655945fbbaa4e5e).
 
 For undergrad I went to Tufts University, graduating Summa Cum Laude with degrees in Mathematics and Mechanical Engineering and was a Captain on the Varsity Rowing Team. I was advised by [James Murphy](https://jmurphy.math.tufts.edu).
 
-Current Projects
-=========
--Coreset selection and the exploration/exploitation trade-off in active learning on graphs at low label rates
-
--Traveling waves and memory in recurrent neural networks
-
--ML for quantum sensing applications with physics collaborators
-
 News
 =====
+08/2026: I started as a Research Scientist at Meta in Menlo Park.
+
+06/2026: I graduated from UCLA and received my PhD! My dissertation is titled [Label-Efficient Machine Learning: Structure-Driven Semi-Supervised Learning on Graphs and Self-Supervised Disturbance Mapping](https://escholarship.org/uc/item/4gr0k9sb).
+
+05/2026: I successfully defended my PhD dissertation! Thank you to my committee members: Andrea Bertozzi, Jeff Calder, Deanna Needell, and Hayden Schaeffer.
+
 11/2025: New preprint for our paper [Topology-Aware Active Learning on Graphs](https://arxiv.org/abs/2510.25892) is available on Arxiv. This paper leverages curvature on graphs to design coreset selection and active learning routines on graphs for semi-supervised learning at low label rates, which improve over existing methods. It also introduces a rewiring strategy for multi-scale hypergraph learning that speeds up runtimes by up to 10x.
 
 8/2025: I'm reviewing for [NHESS](https://nhess.copernicus.org/).
